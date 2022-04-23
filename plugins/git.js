@@ -25,25 +25,10 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 MAALUTTY_V3💝⦁━►
 
 
-*owner number husni* :https://wa.me/917025868709.
-            
+VazhaMwon
 
-*owner number Nijin* :https://wa.me/919605385305.
-
-
-*owner id instagram* :https://instagram.com/_husni_ser_.
-
-
-*github* : https://github.com/nijin-husni/MAALUTTY_V3.
-
-
-*audio commands* :https://github.com/nijin-husni/media/tree/main/bgm.
-
-
-*sticker commands* :https://github.com/nijin-husni/media/tree/main/stickers.
-
-◄━⦁💝 MAALUTTY_V3💝⦁━►
-■□ ~NIJIN~ AND ~HUSNI~■□ 
+◄━⦁💝 MAALUTTY💝⦁━►
+VazhaMwonte Maalutty
 
 `}) 
 
